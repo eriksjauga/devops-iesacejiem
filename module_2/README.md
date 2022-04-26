@@ -30,12 +30,10 @@ git log --author=Pacilio --since="1 day ago"
 commit f8493bf5cd78bc2a723f5ddc6f6bceb0e08813ea
 Author: James Bardin <j.bardin@gmail.com>
 Date:   Fri Apr 16 17:11:27 2021 -0400
-
-    update hcl
-
-    update to v2.10.0
+update hcl
+update to v2.10.0
 	
-## Konkretais commits tika iepusots ar definetu laiku git commit --date=''
+Konkretais commits tika iepusots ar definetu laiku git commit --date=''
 	
 	
 	
