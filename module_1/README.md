@@ -1,9 +1,9 @@
 ## LU DEVOPS IESĀCĒJIEM HOMEWORK 1
 
-###Author: Ēriks
-###Github: https://github.com/eriksjauga/devops-iesacejiem
+### Author: Ēriks
+### Github: https://github.com/eriksjauga/devops-iesacejiem
 
-###Requirements: 
+### Requirements: 
 
 * Install GIT
 * Create Github account and change README.md file, commit it
